@@ -1,0 +1,43 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_MIP_Strategy_HeuristicFreq              -1
+Parallel mode: deterministic, using up to 8 threads for concurrent optimization.
+Tried aggregator 1 time.
+LP Presolve eliminated 91465 rows and 68400 columns.
+Reduced LP has 69315 rows, 4201 columns, and 206630 nonzeros.
+Presolve time = 0.13 sec. (78.68 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =          1217.000000
+Perturbation started.
+Iteration:   476   Dual objective     =          1217.000000
+Iteration:   668   Dual objective     =          1217.004581
+Initializing dual steep norms . . .
+Iteration:   669   Dual objective     =          1217.004976
+Iteration:  1341   Dual objective     =          1217.008691
+Iteration:  2036   Dual objective     =          1217.013709
+Iteration:  2774   Dual objective     =          1217.016755
+Iteration:  3318   Dual objective     =          1217.018420
+Iteration:  3758   Dual objective     =          1217.022805
+Iteration:  4271   Dual objective     =          1217.025005
+Iteration:  4823   Dual objective     =          1217.027730
+Iteration:  5275   Dual objective     =          1217.029597
+Iteration:  5765   Dual objective     =          1217.034191
+Iteration:  6298   Dual objective     =          1217.035100
+Iteration:  6722   Dual objective     =          1217.037276
+Iteration:  7218   Dual objective     =          1217.037633
+Iteration:  7826   Dual objective     =          1217.041197
+Iteration:  8531   Dual objective     =          1217.041932
+Iteration:  9244   Dual objective     =          1217.042856
+Iteration:  9932   Dual objective     =          1217.043918
+Iteration: 10589   Dual objective     =          1217.048209
+Iteration: 11253   Dual objective     =          1217.048791
+Iteration: 11882   Dual objective     =          1217.049419
+Iteration: 12608   Dual objective     =          1217.049485
+Iteration: 13212   Dual objective     =          1218.145613
+Iteration: 13847   Dual objective     =          1219.023694
+Iteration: 14462   Dual objective     =          1219.023744
+Removing perturbation.
+
+Barrier solved model.
+
